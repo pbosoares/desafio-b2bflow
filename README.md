@@ -25,12 +25,17 @@ create table contacts (
   created_at timestamptz default now()
 );
 
+**Para:**
+'''sql
 insert into contacts (nome_contato, telefone) values
-  ('Marcelo', '5511999999999'),
-  ('Ana', '5521988888888'),
-  ('João', '5531977777777');
+  ('Pablo', '5511999999999');
 ```
 
+> O telefone deve estar sem espaços, traços ou parênteses (apenas dígitos),
+> incluindo código do país (ex: 55 + DDD + número).
+> O desafio permite até 3 contatos diferentes, ou apenas 1 caso não haja
+> 3 disponíveis para teste. Neste repositório, a tabela foi populada com
+> 1 contato real para validar o fluxo de ponta a ponta.
 > O telefone deve estar sem espaços, traços ou parênteses (apenas dígitos),
 > incluindo código do país.
 
