@@ -1,7 +1,6 @@
 # Desafio b2bflow — Estágio em Desenvolvimento Python
 
-Script em Python que lê contatos cadastrados em uma tabela do Supabase e envia,
-via Z-API, a mensagem personalizada:
+Desafio técnico (estágio Python) — integração Supabase + Z-API para envio automatizado de mensagens no WhatsApp.
 
 > Olá, `<nome_contato>` tudo bem com você?
 
