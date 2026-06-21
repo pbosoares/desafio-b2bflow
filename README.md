@@ -1,6 +1,6 @@
 # Desafio b2bflow — Estágio em Desenvolvimento Python
 
-Desafio técnico (estágio Python) — integração Supabase + Z-API para envio automatizado de mensagens no WhatsApp.
+Desafio técnico (estágio Python) integração Supabase + Z-API para envio automatizado de mensagens no WhatsApp.
 
 > Olá, `<nome_contato>` tudo bem com você?
 
