@@ -7,7 +7,7 @@ via Z-API, a mensagem personalizada:
 
 ## 1. Setup da tabela no Supabase
 
-No SQL Editor do seu projeto Supabase, rode:
+No SQL Editor do seu meu projeto Supabase, rode:
 
 ```sql
 create table contacts (
